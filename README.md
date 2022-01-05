@@ -1,2 +1,1 @@
-# Command-Alt
-Cmd
+working script
